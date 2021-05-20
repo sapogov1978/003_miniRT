@@ -1,0 +1,11 @@
+NAME:
+	miniRT
+
+DESCRIPTION:
+	Simple raytraicing programm
+
+USAGE:
+	miniRT scenes/[scene_name].rt
+		this command will open a window with raytracing result
+	miniRT scenes/[scene_name].rt --save
+		this command will save a .bmp file with raytraicing result to renders/[scene_name].bmp
