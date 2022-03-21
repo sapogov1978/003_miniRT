@@ -12,3 +12,32 @@ will never be afraid of implementing mathematical formulas again_
 ![GitHub top language](https://img.shields.io/github/languages/top/sapogov1978/003_miniRT?style=for-the-badge)
 
 ## Usage
+
+### Requirements
+
+The project is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
+MLX Library provided and will be choosend during compilation depends on platform.
+
+### Instructions
+
+**1. Compiling the Project**
+
+To compile the Project, run:
+
+```shell
+$ cd path/to/miniRT && make
+```
+
+**2. Syntaxis**
+
+To open a window with raytracing result:
+
+```shell
+miniRT scenes/[scene_name].rt
+```
+
+this command will save a .bmp file with raytraicing result to renders/[scene_name].bmp:
+
+```shell
+miniRT scenes/[scene_name].rt --save
+```
