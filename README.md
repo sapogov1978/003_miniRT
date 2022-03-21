@@ -44,4 +44,11 @@ miniRT scenes/[scene_name].rt --save
 ```
 ## Gallery
 
-![alt text](https://github.com/sapogov1978/003_miniRT/blob/master/gallery/01.jpg?raw=true)
+![alt text](https://github.com/sapogov1978/003_miniRT/blob/main/gallery/01.jpg?raw=true)
+![alt text](https://github.com/sapogov1978/003_miniRT/blob/main/gallery/02.jpg?raw=true)
+![alt text](https://github.com/sapogov1978/003_miniRT/blob/main/gallery/03.jpg?raw=true)
+![alt text](https://github.com/sapogov1978/003_miniRT/blob/main/gallery/04.jpg?raw=true)
+![alt text](https://github.com/sapogov1978/003_miniRT/blob/main/gallery/05.jpg?raw=true)
+![alt text](https://github.com/sapogov1978/003_miniRT/blob/main/gallery/06.jpg?raw=true)
+![alt text](https://github.com/sapogov1978/003_miniRT/blob/main/gallery/07.jpg?raw=true)
+![alt text](https://github.com/sapogov1978/003_miniRT/blob/main/gallery/08.jpg?raw=true)
