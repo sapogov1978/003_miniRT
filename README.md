@@ -42,3 +42,6 @@ this command will save a .bmp file with raytraicing result to renders/[scene_nam
 ```shell
 miniRT scenes/[scene_name].rt --save
 ```
+## Gallery
+
+![alt text](https://github.com/sapogov1978/003_miniRT/blob/master/gallery/01.jpg?raw=true)
