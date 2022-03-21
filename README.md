@@ -35,6 +35,7 @@ To open a window with raytracing result:
 ```shell
 miniRT scenes/[scene_name].rt
 ```
+Use "~" to switch cameras if many.
 
 this command will save a .bmp file with raytraicing result to renders/[scene_name].bmp:
 
